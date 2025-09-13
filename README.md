@@ -71,11 +71,6 @@ The **Financial Performance Dashboard** combines several visualizations:
 
 ## 📸 Dashboard Screenshot
 
-Add your screenshots to your repo (e.g., `/images/financial_dashboard1.png`, `/images/financial_dashboard2.png`) and embed them like this:
-
-```markdown
 ### Overview Screenshot
-![Financial Performance Dashboard Overview](images/financial_dashboard1.png)
+![Financial Performance Dashboard Overview](FinancialAnalysisppt.png)
 
-### Discounts/Profit Screenshot
-![Financial Performance Dashboard Discounts](images/financial_dashboard2.png)
